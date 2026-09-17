@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://linkedin.com/in/ahmer-shah">
+<a href="https://www.linkedin.com/in/ahmer-shah-7b511a279?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:ahmershah211@gmail.com">
